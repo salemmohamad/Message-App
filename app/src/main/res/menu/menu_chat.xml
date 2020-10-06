@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/scheduled"
+        android:title="Create scheduled message"
+        />
+    <item
+        android:id="@+id/about"
+        android:title="About us!"
+
+        />
+    <item
+        android:id="@+id/close"
+        android:title="Close"
+        />
+
+    <item
+        android:icon="@android:drawable/ic_input_add"
+        android:id="@+id/add"
+        android:title="Add Members"
+        app:showAsAction="always"/>
+</menu>
