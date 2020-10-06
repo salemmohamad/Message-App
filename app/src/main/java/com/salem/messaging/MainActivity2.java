@@ -31,7 +31,7 @@ import java.util.Arrays;
 public class MainActivity2 extends AppCompatActivity {
 
 
-    //By: Salem M.Salem 
+    //By: Salem M.Salem
 
     public static final int RC_SIGN_IN=1;
 
